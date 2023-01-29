@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="45dp"
+        android:textAlignment="center"
+        android:text="Cold shower" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="The cold shower increases your dopamine and elevates your mood. What happends is that when you get
+        in the cold you adreline increases. Which makes those changes I have mentioned" />
+
+</LinearLayout>
